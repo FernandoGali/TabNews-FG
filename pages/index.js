@@ -1,5 +1,5 @@
 function Home() {
-    return <h1>Bem vindos ao TabNews - FG</h1>
+  return <h1>Bem vindos ao TabNews - FG</h1>;
 }
 
 export default Home;
